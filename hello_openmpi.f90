@@ -2,7 +2,7 @@
 
 PROGRAM hello_openmpi
 
-    // Prevent undeclared variables being used
+    ! Prevent undeclared variables being used
     implicit none
     include 'mpif.h'
 
