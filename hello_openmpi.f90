@@ -1,7 +1,4 @@
-/*
-    Hello world using openmpi in Fortran
-*/
-
+! Hello world using openmpi in Fortran
 
 PROGRAM hello_openmpi
 
