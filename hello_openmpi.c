@@ -1,5 +1,5 @@
 
-#include <mpio.h>
+#include "mpi.h"
 #include <stdio.h>
 
 
